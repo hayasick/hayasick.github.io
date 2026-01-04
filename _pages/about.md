@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: The University of Tokyo. <a href="https://scholar.google.com/citations?user=lDXTuNIAAAAJ" target="_blank">Google Scholar</a>.
+subtitle: Project Lecture at The University of Tokyo. <a href="https://scholar.google.com/citations?user=lDXTuNIAAAAJ" target="_blank">Google Scholar</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: #   prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
 
@@ -24,8 +24,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I’m a machine learning researcher working on neural sequence models at the University of Tokyo. Before joining, I worked at [Preferred Networks](https://www.preferred.jp/en). My earlier work includes tensor decomposition and Bayesian inference, but my current focus is recurrent/iterative models, memory-augmented architectures (e.g., Transformers and SSMs), and long-horizon generalization.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+### Education
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- D.Eng., Informatics, NAIST (Apr 2009–Mar 2012)
+  - Visiting Scholar, TU Berlin (Sep 2010–Mar 2011) 
+- M.Eng., Informatics, NAIST (Apr 2007–Mar 2009) 
+- B.Eng., Information Science, Ritsumeikan University (Apr 2003–Mar 2007)
