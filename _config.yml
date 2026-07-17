@@ -9,12 +9,15 @@ last_name: Hayashi
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Machine learning researcher at the University of Tokyo working on general machine learning.
 footer_text: #>
   # Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   # Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: 
+  machine learning, neural sequence models, recurrent models, iterative models,
+  Transformers, state space models, memory-augmented neural networks,
+  long-horizon generalization, tensor decomposition, Bayesian inference
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 
 
