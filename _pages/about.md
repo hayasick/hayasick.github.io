@@ -24,11 +24,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a machine learning researcher working on neural sequence models at the University of Tokyo. Before joining, I worked at [Preferred Networks](https://www.preferred.jp/en). My earlier work includes tensor decomposition and Bayesian inference, but my current focus is recurrent/iterative models, memory-augmented architectures (e.g., Transformers and SSMs), and long-horizon generalization.
+I'm a machine learning researcher working on neural sequence models at the University of Tokyo. Before joining, I worked at [Preferred Networks](https://www.preferred.jp/en). My earlier work includes tensor decomposition and Bayesian inference, but my current focus is recurrent/iterative models, memory-augmented architectures (e.g., Transformers and SSMs), and long-horizon generalization.
 
 ### Education
 
-- D.Eng., Informatics, NAIST (Apr 2009–Mar 2012)
-  - Visiting Scholar, TU Berlin (Sep 2010–Mar 2011) 
-- M.Eng., Informatics, NAIST (Apr 2007–Mar 2009) 
-- B.Eng., Information Science, Ritsumeikan University (Apr 2003–Mar 2007)
+- Ph.D, Informatics, NAIST (Apr 2009--Mar 2012)
+  - Visiting Scholar, TU Berlin (Sep 2010--Mar 2011) 
+- Master, Informatics, NAIST (Apr 2007--Mar 2009) 
+- Bachelor, Information Science, Ritsumeikan University (Apr 2003--Mar 2007)
